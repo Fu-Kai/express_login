@@ -10,7 +10,7 @@
 npm run start
 ```
 
-启动之后打开浏览器 输入 http://localhost:3000/register来注册
+启动之后打开浏览器 输入 http://localhost:3000/register
 
 注册成功后自动跳转登录界面
 
